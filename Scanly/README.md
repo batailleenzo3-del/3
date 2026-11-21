@@ -171,7 +171,7 @@ Le compte développeur payant (99 €/an) sert pour **toutes** tes apps.
 - `appStoreID` : à remplir **après** la création de l'app. Pas obligatoire pour la 1ʳᵉ version.
 
 ### 6.2 Politique de confidentialité (obligatoire)
-1. Ouvre `AppStore/politique-de-confidentialite.html` avec **TextEdit**, remplace `[TON E-MAIL DE CONTACT]` et `[DATE]`.
+1. Ouvre `AppStore/politique-de-confidentialite.html` avec **TextEdit**, remplace `[TON E-MAIL DE CONTACT]` (6 fois ; la date est déjà remplie).
 2. Mets-la en ligne comme pour tes autres apps (Notion ou Google Doc public), copie l'adresse dans `AppConfig.swift` et dans App Store Connect.
 
 ### 6.3 Créer l'app et l'achat intégré
