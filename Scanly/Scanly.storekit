@@ -1,0 +1,37 @@
+{
+  "identifier" : "4D8E0C01",
+  "nonRenewingScanlycriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : true,
+      "internalID" : "4D8E0C02",
+      "localizations" : [
+        {
+          "description" : "Documents illimités, achat unique à vie",
+          "displayName" : "Scanly illimité",
+          "locale" : "fr_FR"
+        },
+        {
+          "description" : "Unlimited documents, one-time purchase",
+          "displayName" : "Scanly Unlimited",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.enzobataille.scanly.unlimited",
+      "referenceName" : "Scanly Illimité",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "fr_FR",
+    "_storefront" : "FRA",
+    "_storeKitErrors" : []
+  },
+  "scanlycriptionGroups" : [],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

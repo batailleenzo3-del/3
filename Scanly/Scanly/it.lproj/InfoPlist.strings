@@ -1,0 +1,4 @@
+/* Nom affiché sous l'icône */
+"CFBundleDisplayName" = "Scanly";
+"NSCameraUsageDescription" = "Scanly usa la fotocamera per scansionare i tuoi documenti. Le immagini restano sul tuo iPhone.";
+"NSFaceIDUsageDescription" = "Scanly usa Face ID per proteggere i tuoi documenti.";
